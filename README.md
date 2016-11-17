@@ -15,7 +15,7 @@ Pro přístup do Microsoft Azure získá každý účastník zdarma kredit 100$ 
 Abyste mohli využít plný potenciál této události, měli byste mít technické znalosti, podívejte se na tento seznam videí, kurzů a dalších prostředků zdarma abyste si rozšířili vaše znalosti.
 
 
-## Hardware
+## Hardware na hraní
 
 ### Termostat Nest 
 The 3rd gen Nest Thermostat programs itself. It helps save energy. And you can control it from anywhere on your phone, laptop, or tablet.

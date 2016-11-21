@@ -80,8 +80,8 @@ Sample App  https://github.com/Microsoft/XamarinAzure_ShoppingDemoApp
 
 ## Partneři
 
-### BigClown 
-http://bigclown.com/
+### Microsoft 
+https://www.microsoft.com/cs-cz
 ### Česká spořitelna
 http://developers.csas.cz/
 ### Estimote

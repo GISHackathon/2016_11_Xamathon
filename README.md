@@ -3,6 +3,13 @@ Materiál k Xamathonu 25.-26.11. na Mendelova univerzita v Brně
 
 [Registrace na eventbrite](https://www.eventbrite.co.uk/e/gis-xamathon-smart-people-tickets-28547733038)
 
+Výběr z navrhovaných témat pro hack
+
+- Meření fronty před menzou/bufetem
+- Automatický download/zobrazení přednášených slajdů po příchodu do přednáškovky 
+- Zjišťování docházky na přednášku nebo cvičení
+- Indoor navigace (ukázat na mapě, kde se nachází)
+
 Xamathon roadshow, která cestuje po 14 zemích ve střední a východní Evropě, se 25. a 26. listopadu spojí s GIS hackathonem v Brně. Budete si moci vyzkoušet vývoj multiplatformních aplikací v Xamarin, iOS, Android, C# na platformně Azure a jejich napojení na senzor teploty, chytrou žárovku, termostat nebo iBeacony.
 Pojďte s našimi lokálními technickými experty strávit dva dny, abyste mohli odejít s většími znalostmi o tom, jak vytvářet, testovat a monitorovat mobilní aplikace s Xamarinem a platformou Azure.
 Technické požadavky

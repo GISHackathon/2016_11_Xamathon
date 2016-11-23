@@ -7,7 +7,7 @@ Xamathon roadshow, která cestuje po 14 zemích ve střední a východní Evrop�
 Pojďte s našimi lokálními technickými experty strávit dva dny, abyste mohli odejít s většími znalostmi o tom, jak vytvářet, testovat a monitorovat mobilní aplikace s Xamarinem a platformou Azure.
 Technické požadavky
 
-Přijďte prosím připraveni na GIS Xamathon – mějte nainstalované a připravené Visual Studio, Xamarin a Azure SDK na vašem notebooku. Instrukce naleznete zde.
+Přijďte prosím připraveni na GIS Xamathon – mějte nainstalované a připravené Visual Studio, Xamarin a Azure SDK na vašem notebooku. [Instrukce naleznete zde.](https://www.microsoft.com/cs-cz/xamathon/program.aspx)
 Zde najdete kompletní příručku pro Mac OS X a Windows, která vám pomůže vše připravit.
 Pokud nemáte Mac, tak abyste mohli testovat aplikace na iOS, můžete využít jeden z týdenních plánů MacInCloud (Euro za server, OS El Capitain) se zapnutou možností Enable Remote Build Port.
 Pro přístup do Microsoft Azure získá každý účastník zdarma kredit 100$ při zahájení hackathonu.

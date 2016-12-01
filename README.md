@@ -16,6 +16,9 @@ Demo dashboard https://gishackathon.github.io/2016_gisxamathon_paydash/dist/
 
 Zdrojové kódy dashboardu https://github.com/GISHackathon/2016_gisxamathon_paydash
 
+Zdrojové kódy Azure Function: https://github.com/GISHackathon/2016_gisxamathon_beaconpayment_AzFx
+
+
 #### MHD pro nevidomé
 bude doplněno
 

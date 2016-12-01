@@ -1,4 +1,35 @@
 # GIS Xamathonu 25.-26.11. v Brně
+
+## Shrnutí akce
+Fotky z místa činu https://www.zonerama.com/Link/Album/2433214
+
+### Odkaz na projekty
+
+#### Emotion sales
+Druhé místo na @GISHackathon má analýza emocí nakupujících. https://github.com/icebeam7/EmotionsSales
+
+
+#### Beacon payment
+Předobjednávání v restauraci pomocí mobilní aplikace a zjednodušení vyzvednutí a placení pomocí technologie beacons
+
+Demo dashboard https://gishackathon.github.io/2016_gisxamathon_paydash/dist/
+
+Zdrojové kódy dashboardu https://github.com/GISHackathon/2016_gisxamathon_paydash
+
+#### MHD pro nevidomé
+bude doplněno
+
+#### Menza
+A @GISHackathon vyhrává predikce čekání v menze!
+https://github.com/FUSAKLA/mendelu-menza
+
+#### Philips Hue napojený na BigClown
+@philipshuedev ovládaný pomoci teplotního čidla na @BigClownLabs
+
+Zdrojové kódy: https://github.com/GISHackathon/2016_11_Xamathon/blob/master/clown_hue_demo.py skript, který běžel na rpi a vypisoval na display, řídil Hue podle teplotního senzoru, a podle luxu zas cvakal relátkem. Více příkladů s BigClown https://github.com/bigclownlabs
+
+## Organizace
+
 Materiál k Xamathonu 25.-26.11. na Mendelova univerzita v Brně
 
 [Registrace na eventbrite](https://www.eventbrite.co.uk/e/gis-xamathon-smart-people-tickets-28547733038)
